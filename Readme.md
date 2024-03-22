@@ -9,3 +9,4 @@ A basic Node.js Express app template with configurations for development, stagin
 ```bash
 npm install
 ```
+2. 
